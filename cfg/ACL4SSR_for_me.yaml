@@ -63,7 +63,6 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
-      - 🎥 奈飞节点
       - 🇸🇬 狮城节点
       - 🇭🇰 香港节点
       - 🇨🇳 台湾节点
@@ -459,6 +458,5 @@ rules:
   - "RULE-SET,ChinaDomain,🎯 全球直连"
   - "RULE-SET,ChinaCompanyIp,🎯 全球直连"
   - "RULE-SET,Download,🎯 全球直连"
-  - "GEOIP,Lan,🎯 全球直连,no-resolve
   - "GEOIP,CN,🎯 全球直连,no-resolve"
   - "MATCH,🐟 漏网之鱼"
